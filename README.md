@@ -5,7 +5,7 @@ A tiny improvement on SSD (Single Shot Multibox Detector). Using the feature map
 In this repository, we proposal to detect the small object effectively by using the concatenation module and FPN module.
 
 <p align="center">
-<img src="https://github.com/leikinman/LSSD/blob/master/pic/network.png" alt="LSSD Framework" width="700px">
+<img src="https://github.com/leikinman/LSSD/blob/master/pic/network.png" alt="LSSD Framework" width="500px">
 </p>
 
 ## Feature
@@ -22,4 +22,10 @@ The overall network is showed as followed.
 
 <p align="center">
 <img src="https://github.com/leikinman/LSSD/blob/master/pic/outlook.png" width=700px">
+</p>
+
+## Result
+<p align="center">
+<img src="https://github.com/leikinman/LSSD/blob/master/pic/result1-1.jpg">
+<img src="https://github.com/leikinman/LSSD/blob/master/pic/result1-2.jpg">
 </p>
